@@ -1,14 +1,14 @@
 # serverless-test
 
-## update node before
-## npm install -g serverless
-## choose an base project
-## configre an provider
+## Install 
+	- npm install -g serverless (update node before)
+	- choose an base project
+## configure an provider
 ## serverless deploy
 ## install serverless-offline
-	- npm install --save-dev serverless-offline
+	npm install --save-dev serverless-offline
 
-	add plugin to serverless.yml
+	add these lines to serverless.yml
 	plugins:
 	  - serverless-offline
 ## serverless remove (to remove all stack)
