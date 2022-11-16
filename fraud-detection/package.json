@@ -1,0 +1,10 @@
+{
+  "name": "fiserv-fraud-detection",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "serverless-offline": "^11.3.0"
+  }
+}
